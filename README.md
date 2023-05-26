@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Full stack software engineer, with a simple passion of building and creating various softwares. emphasizing in web applications
 <!--
 **TrevorKvanvig/TrevorKvanvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
