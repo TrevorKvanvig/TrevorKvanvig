@@ -17,8 +17,8 @@ Full stack software engineer, with a simple passion of building and creating var
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2560px-ISO_C%2B%2B_Logo.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+ <img width=50px src="https://www.transparentpng.com/download/apple-logo/AoKYpC-apple-logo-png-icon.png">&nbsp;
 </div>
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2560px-ISO_C%2B%2B_Logo.svg.png
 
 <!--
 **TrevorKvanvig/TrevorKvanvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
