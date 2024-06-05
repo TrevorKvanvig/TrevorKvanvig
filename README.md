@@ -1,5 +1,5 @@
 ### Hi there 👋
-Full stack software engineer, with a simple passion of building and creating various softwares emphasizing in web applications.
+I am a Full stack software engineer, with a simple passion of building and creating various softwares emphasizing in web applications.
 
  <a href="https://github.com/TrevorKvanvig/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorKvanvig&theme=github_dark&layout=compact&hide_border=true" /></a>
 
